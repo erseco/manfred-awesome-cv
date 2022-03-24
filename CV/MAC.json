@@ -1,0 +1,288 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Ernesto",
+      "surnames": "Serrano",
+      "title": "DevOps Engineer",
+      "description": "",
+      "avatar": {
+        "alt": "profile-image",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6a8628b9-64fe-4820-8395-b22a7dda9bb7_3fe0c8740a319308c090.3fe0c8740a319308c0900b71621c9ee0"
+      },
+      "location": {
+        "notes": "Granada, Andalusia, ES"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/erseco"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://www.twitter.com/erseco"
+      },
+      {
+        "type": "other",
+        "URL": "https://ernesto.es"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Favorite editor",
+        "fact": "sublime text"
+      },
+      {
+        "topic": "First computer",
+        "fact": "Sinclair ZX Spectrum +2A"
+      }
+    ]
+  },
+  "experience": {
+    "projects": [
+      {
+        "details": {
+          "name": "greasemonkey-compiler",
+          "description": "A tool to turn a Greasemonkey user script into a Firefox (XPI) extension.",
+          "URL": "https://github.com/erseco/greasemonkey-compiler"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-05-01",
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "ugr_fundamentos_programacion",
+          "description": "Prácticas de la asignatura Fundamentos de programación de la UGR (ETSIIT)",
+          "URL": "https://github.com/erseco/ugr_fundamentos_programacion"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2013-12-01",
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "ia_solver",
+          "description": "Script greasemonkey para resolver cuestionarios del sistema SCACP de la UGR (ETSIIT)",
+          "URL": "https://github.com/erseco/ia_solver"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-07-01",
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "napakalaki_java",
+          "description": "Implementación en java del Juego Napakalaki para la asignatura PDOO de la UGR (ETSIIT)",
+          "URL": "https://github.com/erseco/napakalaki_java"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-01-01",
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Trivial Mobile - Android Apps on Google Play",
+          "description": "From the creators of Aworded arrives Trivia Crack, the amazing quiz game that lets you test your knowledge and challenge your friends to see who is the smartest!",
+          "URL": "https://play.google.com/store/apps/details?id=erseco.soft"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-03-24"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Agent_GUI_R3a",
+          "description": "Multiplatform version of the Tsung-Che Chiang's Agent\\_GUI\\_R3a Vacuum Cleaner",
+          "URL": "https://github.com/erseco/Agent_GUI_R3a"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-04-01",
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "4Raya_linux",
+          "description": "Practica 3 de la asignatura de Inteligencia Artificial de la UGR (ETSIIT)",
+          "URL": "https://github.com/erseco/4Raya_linux"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-07-01",
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "napakalaki_ruby",
+          "description": "Implementación en ruby del Juego Napakalaki para la asignatura PDOO de la UGR (ETSIIT)",
+          "URL": "https://github.com/erseco/napakalaki_ruby"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-01-01",
+            "competences": [
+              {
+                "name": "Ruby",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "ugr_metodologia_programacion",
+          "description": "Prácticas de la asignatura de Metodología de la programación de la UGR (ETSIIT)",
+          "URL": "https://github.com/erseco/ugr_metodologia_programacion"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-07-01",
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "ugr_sistemas_operativos",
+          "description": "Practicas de la asignatura de Sistemas Operativos de la UGR (ETSIIT)",
+          "URL": "https://github.com/erseco/ugr_sistemas_operativos"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-03-01",
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "B.S. Computer Science",
+        "startDate": "2013-01-01",
+        "finishDate": "2013-01-01",
+        "institution": {
+          "name": "Universidad de Granada"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
+          "name": "Debian",
+          "type": "technology"
+        },
+        {
+          "name": "Linux",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
